@@ -18406,7 +18406,7 @@ const a0 = x.createContext(void 0)
                                 },
                                 children: f.jsx("img", {
                                     src: "/lovable-uploads/7c3c4bae-c8ce-4497-8217-a759cb11c627.png",
-                                    alt: "kiro Front Image",
+                                    alt: "lifeletters Front Image",
                                     className: "w-full h-full rounded-3xl object-cover border-4 border-white/20 group-hover:border-white/40 transition-all duration-700 group-hover:scale-105"
                                 })
                             }), f.jsx("div", {
@@ -18458,7 +18458,7 @@ const a0 = x.createContext(void 0)
                             },
                             children: [f.jsx("h3", {
                                 className: "text-5xl font-montserrat font-black mb-8 modern-text-gradient",
-                                children: 'kiro "TheRealVenom" - Revolutionary Developer'
+                                children: 'mostafa "lifeletters" - Revolutionary Developer'
                             }), f.jsxs("p", {
                                 className: "text-2xl leading-relaxed mb-8",
                                 style: {
@@ -18466,10 +18466,10 @@ const a0 = x.createContext(void 0)
                                 },
                                 children: ["Hello, I am ", f.jsx("span", {
                                     className: "modern-text-gradient font-bold text-3xl",
-                                    children: "kiro"
+                                    children: "mostafa"
                                 }), ", nicknamed ", f.jsx("span", {
                                     className: "modern-text-gradient font-bold text-3xl",
-                                    children: "TheRealVenom"
+                                    children: "lifeletters"
                                 }), ". My expertise encompasses ", f.jsx("span", {
                                     className: "modern-text-gradient font-semibold",
                                     children: "revolutionary design"
@@ -19375,6 +19375,7 @@ const a0 = x.createContext(void 0)
     })
 });
 jh(document.getElementById("root")).render(f.jsx(Y2, {}));
+
 
 
 
