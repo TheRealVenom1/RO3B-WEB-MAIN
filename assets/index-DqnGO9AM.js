@@ -17954,7 +17954,7 @@ const a0 = x.createContext(void 0)
                             className: "w-48 h-48 mx-auto rounded-full bg-gradient-to-br from-cyan-400 via-blue-500 to-purple-600 p-2 shadow-2xl animate-glow mb-8 pulse-glow",
                             children: f.jsx("img", {
                                 src: "/lovable-uploads/7c3c4bae-c8ce-4497-8217-a759cb11c627.png",
-                                alt: "lifeletters Profile",
+                                alt: "Ro3b Profile",
                                 className: "w-full h-full rounded-full object-cover border-4 border-white/20"
                             })
                         })
@@ -17989,10 +17989,10 @@ const a0 = x.createContext(void 0)
                             className: "text-xl text-slate-200 leading-relaxed max-w-3xl mx-auto",
                             children: ["Hello, I am ", f.jsx("span", {
                                 className: "gradient-text font-semibold",
-                                children: "mostafa"
+                                children: "Abdo"
                             }), ", nicknamed ", f.jsx("span", {
                                 className: "gradient-text font-semibold",
-                                children: "lifeletters"
+                                children: "Ro3b"
                             }), ". My skills are design and programming professionally. I program on my phone and design on my phone at the", f.jsx("span", {
                                 className: "text-cyan-400 font-semibold",
                                 children: " cheapest prices"
@@ -18029,7 +18029,7 @@ const a0 = x.createContext(void 0)
                             animationDelay: "1.2s"
                         },
                         children: f.jsx("a", {
-                            href: "https://discord.com/users/mostafa454599",
+                            href: "https://discord.com/users/ro3b.exe2455",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "group w-20 h-20 glass-effect rounded-3xl flex items-center justify-center transition-all duration-500 hover:bg-cyan-500 hover:scale-125 hover:shadow-2xl hover:shadow-cyan-500/50 border border-cyan-400/20 hover:border-cyan-400 hover:rotate-12",
@@ -18154,7 +18154,7 @@ const a0 = x.createContext(void 0)
                                 className: "w-full h-full rounded-full overflow-hidden modern-glass border-4 border-white/30 group-hover:border-white/50 transition-all duration-700 modern-morphing",
                                 children: f.jsx("img", {
                                     src: "/lovable-uploads/7c3c4bae-c8ce-4497-8217-a759cb11c627.png",
-                                    alt: "TheRealVenom Profile",
+                                    alt: "Ro3b Profile",
                                     className: "w-full h-full object-cover group-hover:scale-110 transition-all duration-700"
                                 })
                             }), f.jsx("div", {
@@ -18182,7 +18182,7 @@ const a0 = x.createContext(void 0)
                         })
                     }), f.jsx("h1", {
                         className: "text-9xl md:text-[16rem] font-montserrat font-black mb-16 modern-text-gradient leading-none tracking-tighter transform hover:scale-105 transition-all duration-700 cursor-default",
-                        children: "lifeletters"
+                        children: "Ro3b"
                     }), f.jsxs("div", {
                         className: "relative mb-12",
                         children: [f.jsx("div", {
@@ -18215,10 +18215,10 @@ const a0 = x.createContext(void 0)
                             },
                             children: ["Hello, I am ", f.jsx("span", {
                                 className: "modern-text-gradient font-bold text-4xl",
-                                children: "mostafa"
+                                children: "Abdo"
                             }), ", nicknamed ", f.jsx("span", {
                                 className: "modern-text-gradient font-bold text-4xl",
-                                children: "lifeletters"
+                                children: "Ro3b"
                             }), ". My expertise lies in ", f.jsx("span", {
                                 className: "modern-text-gradient font-semibold",
                                 children: "revolutionary design"
@@ -18267,7 +18267,7 @@ const a0 = x.createContext(void 0)
                             animationDelay: "1.2s"
                         },
                         children: f.jsx("a", {
-                            href: "https://discord.com/users/1071076091688656997",
+                            href: "https://discord.com/users/1112891056057483295",
                             target: "_blank",
                             rel: "noopener noreferrer",
                             className: "group w-24 h-24 modern-glass rounded-3xl flex items-center justify-center transition-all duration-500 hover:scale-125 hover:-translate-y-3 modern-glow",
@@ -18406,7 +18406,7 @@ const a0 = x.createContext(void 0)
                                 },
                                 children: f.jsx("img", {
                                     src: "/lovable-uploads/7c3c4bae-c8ce-4497-8217-a759cb11c627.png",
-                                    alt: "lifeletters Front Image",
+                                    alt: "Ro3b Front Image",
                                     className: "w-full h-full rounded-3xl object-cover border-4 border-white/20 group-hover:border-white/40 transition-all duration-700 group-hover:scale-105"
                                 })
                             }), f.jsx("div", {
@@ -18434,7 +18434,7 @@ const a0 = x.createContext(void 0)
                                 className: "w-96 h-96 mx-auto rounded-3xl bg-gradient-to-br from-cyan-400/20 via-blue-500/20 to-purple-600/20 p-2 shadow-2xl shadow-cyan-500/25 interactive-card pulse-glow",
                                 children: f.jsx("img", {
                                     src: "/lovable-uploads/9238297a-ce55-433f-81d2-f9a9c3e1d451.png",
-                                    alt: "kiro Profile",
+                                    alt: "Ro3b Profile",
                                     className: "w-full h-full rounded-3xl object-cover border-2 border-cyan-400/30"
                                 })
                             }), f.jsx("div", {
@@ -18466,10 +18466,10 @@ const a0 = x.createContext(void 0)
                                 },
                                 children: ["Hello, I am ", f.jsx("span", {
                                     className: "modern-text-gradient font-bold text-3xl",
-                                    children: "mostafa"
+                                    children: "Abdo"
                                 }), ", nicknamed ", f.jsx("span", {
                                     className: "modern-text-gradient font-bold text-3xl",
-                                    children: "lifeletters"
+                                    children: "Ro3b"
                                 }), ". My expertise encompasses ", f.jsx("span", {
                                     className: "modern-text-gradient font-semibold",
                                     children: "revolutionary design"
@@ -19160,17 +19160,17 @@ const a0 = x.createContext(void 0)
                                     })]
                                 }), f.jsx("h3", {
                                     className: "text-4xl font-montserrat font-bold text-white mb-4 group-hover:text-cyan-400 transition-colors duration-300",
-                                    children: "GraveYard [GYD]"
+                                    children: "VOID STORE"
                                 }), f.jsx("p", {
                                     className: "text-cyan-400 text-xl font-semibold",
-                                    children: "Egyptian Community Server"
+                                    children: "Egyptian Store Server"
                                 }), f.jsxs("div", {
                                     className: "flex items-center justify-center gap-2 mt-4 text-slate-300",
                                     children: [f.jsx(Ml, {
                                         className: "w-5 h-5"
                                     }), f.jsx("span", {
                                         className: "text-lg",
-                                        children: "Premium Community Server"
+                                        children: "Premium Store Server"
                                     })]
                                 })]
                             }), f.jsxs("div", {
@@ -19182,7 +19182,7 @@ const a0 = x.createContext(void 0)
                                         className: "w-5 h-5"
                                     }), n ? "Hide Details" : "Show Details"]
                                 }), f.jsxs("a", {
-                                    href: "https://discord.gg/XAfHC7zWfx",
+                                    href: "https://discord.gg/UUWAU2kfW3",
                                     target: "_blank",
                                     rel: "noopener noreferrer",
                                     className: "px-8 py-4 border-2 border-cyan-400 text-cyan-400 font-semibold rounded-2xl transition-all duration-500 hover:bg-cyan-400 hover:text-slate-900 hover:scale-110 hover:-translate-y-1 flex items-center justify-center gap-3 text-lg hover:shadow-2xl hover:shadow-cyan-400/30",
@@ -19318,7 +19318,7 @@ const a0 = x.createContext(void 0)
                 className: "max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center",
                 children: [f.jsx("div", {
                     className: "text-2xl font-semibold mb-6 md:mb-0 modern-text-gradient",
-                    children: "© 2025 lifeletters. All rights reserved."
+                    children: "© 2025 Ro3b. All rights reserved."
                 }), f.jsxs("div", {
                     className: "flex items-center gap-8",
                     children: [f.jsx("a", {
@@ -19375,6 +19375,7 @@ const a0 = x.createContext(void 0)
     })
 });
 jh(document.getElementById("root")).render(f.jsx(Y2, {}));
+
 
 
 
